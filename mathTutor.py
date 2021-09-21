@@ -19,9 +19,9 @@ print  ("WELCOME TO CHRISTINA'S MATH TUTORING LAB!!!\n\n")  #opening welcome sta
 
 def main():  #user will select one option to either review the rules, start the problems, or exit the program.
     print("""\nPlease choose from the following menu:
-        \n1) See rules
+        \n1) Rules
         \n2) Math Practice
-        \n3) Exit""")
+        \n3) Exit the Game""")
 def MathPractice():  #user will select which type of math problems they will like to practice. 
     print ("""\nPlease choose from the following menu:
         \n1) Addition
