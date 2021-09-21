@@ -3,7 +3,7 @@
 #Virtual Math Tutor Program
 #Input: The option the user wants to view. The type of math problems, the levels, and the number of problems the user want to work on. 
 #
-#Processing: 1. Prompts user to selection 1 out of 3 options from the menu. 
+#Processing: 1. Prompts the user to selection 1 out of 3 options from the menu. 
 #            2. Option 1 will show rules, Option 2 will display the math problems, Option 3 will exit the program. 
 #            3. For Option 2 the user will be prompted to select 1 or 3 options for the type of math problems, Addition, Subtraction, or Multiplication. 
 #            4. The user will then select the level of math problems, either 1 or 2. 
